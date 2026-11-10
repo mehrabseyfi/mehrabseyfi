@@ -41,7 +41,13 @@ I'm a front-end developer with **3+ years of experience** building responsive, s
 <img src="https://streak-stats.demolab.com?user=mehrabseyfi&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
 <!-- The snake animation below requires the included workflow to run successfully. -->
-<img src="https://raw.githubusercontent.com/mehrabseyfi/mehrabseyfi/output/github-contribution-grid-snake-dark.svg" alt="Snake animation eating GitHub contributions" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mehrabseyfi/mehrabseyfi/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mehrabseyfi/mehrabseyfi/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake eating my GitHub contributions" src="https://raw.githubusercontent.com/mehrabseyfi/mehrabseyfi/output/github-contribution-grid-snake.svg" />
+</picture>
+
 
 </div>
 
