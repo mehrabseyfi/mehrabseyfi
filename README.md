@@ -34,13 +34,13 @@ I'm a front-end developer with **3+ years of experience** building responsive, s
 <div align="center">
 
 <!-- Replace YOUR_GITHUB_USERNAME in all URLs below. -->
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=mehrabseyfi&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehrabseyfi&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used languages" />
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=mehrabseyfi&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
 <!-- The snake animation below requires the included workflow to run successfully. -->
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake animation eating GitHub contributions" />
+<img src="https://raw.githubusercontent.com/mehrabseyfi/mehrabseyfi/output/github-contribution-grid-snake-dark.svg" alt="Snake animation eating GitHub contributions" />
 
 </div>
 
