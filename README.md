@@ -34,9 +34,9 @@ I'm a front-end developer with **3+ years of experience** building responsive, s
 <div align="center">
 
 <!-- Replace YOUR_GITHUB_USERNAME in all URLs below. -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehrabseyfi&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-six-fawn-87.vercel.app/api?username=mehrabseyfi&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mehrabseyfi&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-six-fawn-87.vercel.app/api/top-langs/?username=mehrabseyfi&layout=compact&theme=tokyonight)
 
 <img src="https://streak-stats.demolab.com?user=mehrabseyfi&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
